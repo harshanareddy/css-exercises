@@ -1,0 +1,17 @@
+.num1, .num3, .num5{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#num2{
+    color:blue;
+    font-size: 36px;
+    
+}
+.ele3{
+    font-size: 24px;
+}
+#num4{
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 24px;
+}
